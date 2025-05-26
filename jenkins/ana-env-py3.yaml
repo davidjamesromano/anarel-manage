@@ -92,3 +92,4 @@ dependencies:
   - textual
   - rich
   - pydantic
+  - pynng

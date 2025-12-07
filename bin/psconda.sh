@@ -1,4 +1,4 @@
-# Needee by JuoyterLab
+# Needed by JupyterLab
 export JUPYTERLAB_WORKSPACES_DIR=${HOME}/.jupyter/lab/workspaces
 export JUPYTERLAB_SETTINGS_DIR=${HOME}/.jupyter/lab/user-settings
 
